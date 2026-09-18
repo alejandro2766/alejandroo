@@ -37,3 +37,9 @@ margin-left:25px;
 margin-right:25px;
 }  
 
+img{
+   margin:auto;
+   max-width: 100px;
+   height: auto;
+   display: block;
+
